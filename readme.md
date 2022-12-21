@@ -1,4 +1,4 @@
-# strawberry-poseestimation
+# Strawberry-Tracker
 これは姿勢推定モデルをスマホでも手軽に使えるようにするプロジェクト！
 
 # どんなことができる？
